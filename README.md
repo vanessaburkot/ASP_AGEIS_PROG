@@ -1,2 +1,4 @@
 # ASP_AGEIS_PROG
-Aspectos ágeis de Programação
+
+Dieretório com os exercícios para a matéria de Aspectos ágeis de Programação
+Aluna: Vaness Burkot
